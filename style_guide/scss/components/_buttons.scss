@@ -13,7 +13,7 @@
 }
 
 .default {
-  background-color: #51ddfc;
+  background-color: $color-default;
 }
 
 .error {
@@ -25,9 +25,9 @@
 }
 
 .success {
-  background-color: #63cc82;
+  background-color: $color-success;
 }
 
 .warning {
-  background-color: #fd7856;
+  background-color: $color-warning;
 }
