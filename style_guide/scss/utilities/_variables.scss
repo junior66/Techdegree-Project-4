@@ -15,7 +15,7 @@ $radius: 5px;
 
 // Media query breakpoints
 
-$brk-wide: '(min-width: 768px)';
+$brk-wide: 'min-width: 768px';
     .container {
         max-width: 1400px;
         display: block;
